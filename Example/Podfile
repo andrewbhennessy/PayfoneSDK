@@ -1,0 +1,6 @@
+use_frameworks!
+target 'PayfoneSDK_Tests' do
+  pod 'PayfoneSDK', :path => '../'
+  
+  
+end
