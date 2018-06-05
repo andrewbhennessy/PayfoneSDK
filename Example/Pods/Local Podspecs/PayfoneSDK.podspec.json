@@ -1,0 +1,22 @@
+{
+  "name": "PayfoneSDK",
+  "version": "0.1.0",
+  "summary": "A short description of PayfoneSDK.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/DannyBoyBroadSword/PayfoneSDK",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "DannyBoyBroadSword": "andrewhennessy3455@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/DannyBoyBroadSword/PayfoneSDK.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "PayfoneSDK/Classes/**/*"
+}

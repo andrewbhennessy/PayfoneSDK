@@ -1,0 +1,16 @@
+PODS:
+  - PayfoneSDK (0.1.0)
+
+DEPENDENCIES:
+  - PayfoneSDK (from `../`)
+
+EXTERNAL SOURCES:
+  PayfoneSDK:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  PayfoneSDK: 4eaf57158e7830ea4bd52737da6a6b06a47ccfda
+
+PODFILE CHECKSUM: caf603df7d570d9196b208f518f0f3a88df2bbf2
+
+COCOAPODS: 1.5.3
